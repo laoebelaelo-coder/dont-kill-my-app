@@ -1,6 +1,4 @@
----
-manufacturer:
-    - huawei
+corre--
 
 ---
 
